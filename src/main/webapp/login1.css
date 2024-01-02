@@ -1,0 +1,76 @@
+#boxl{
+	    margin-left: 319px;
+    margin-top: 41px;
+    background-color: #0000007d;
+    margin-right: 495px;
+    padding-left: 47px;
+    border: 2px solid white;
+    border-radius: 44px;
+    height: 549px;
+    position: relative;
+    color: white;
+    width: 495px;
+    margin-bottom: 111px;
+}
+
+
+.form-control{
+	     width: 388px;
+    height: 40px;
+    border-radius: 15px;
+    margin-bottom: -6px;
+	
+}
+
+.form-control-label{
+	    font-size: 21px;
+	        font-family: sans-serif;
+	        color: orange;
+}
+.btn{
+	margin-top: 12px;
+    margin-left: 109px;
+    background-color: orange;
+    border-radius: 20px;
+    height: 45px;
+    width: 155px;
+    color:white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#dont{
+	    margin-left: -39px;
+	    font-size: 17px;
+}
+#loginbtn{
+	 background-color: orange;
+    color: white;
+    height: 54px;
+    width: 182px;
+    border-radius: 32px;
+    font-size: 20px;
+    margin-left: 106px;
+    margin-bottom: 5px;
+}
+
+#loginbtn:hover{
+	background-color:  #ebac3a;
+	color: white;
+}
+.head{
+	
+    margin-left: 140px;
+    margin-bottom: 53px;
+    margin-top: 41px;
+    font-family: sans-serif;
+    color: orange;
+}
+
+#logina{
+	    color: orange;
+    font-size: 22px;
+}
+#logina:hover {
+	color: red;
+}

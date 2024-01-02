@@ -1,0 +1,70 @@
+.loginbox{
+	
+	    margin-left: 319px;
+    margin-top: 73px;
+    background-color: #0000007d;
+    margin-right: 495px;
+    padding-left: 47px;
+    border: 2px solid white;
+    border-radius: 44px;
+    height: 786px;
+    position: relative;
+    color: white;
+    width: 495px;
+    margin-bottom: 111px;
+}
+
+
+.form-control{
+	    width: 388px;
+    height: 44px;
+    border-radius: 15px;
+	
+}
+.form-control1{
+	    width: 388px;
+    height: 127px;
+    border-radius: 15px;
+	
+}
+
+.form-control-label{
+	    font-size: 21px;
+	        font-family: sans-serif;
+}
+.btn{
+	margin-top: 12px;
+    margin-left: 109px;
+    background-color: orange;
+    border-radius: 20px;
+    height: 45px;
+    width: 155px;
+    color:white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#loginbtn{
+	background-color:orange;
+	color: white;
+}
+#loginbtn:hover{
+	background-color: #ebac3a;
+	color: white;
+}
+
+.head1{
+    margin-left: 96px;
+    margin-bottom: 53px;
+    margin-top: 41px;
+    font-family: sans-serif;
+    color: orange;
+
+}
+
+#logina{
+	    color: orange;
+    font-size: 22px;
+}
+#logina:hover {
+	color: red;
+}
